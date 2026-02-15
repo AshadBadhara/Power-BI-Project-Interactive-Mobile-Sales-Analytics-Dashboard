@@ -1,4 +1,4 @@
-
+https://github.com/AshadBadhara/Power-BI-Project-Interactive-Mobile-Sales-Analytics-Dashboard/blob/main/Power%20BI%20Dashboard.png
 
 # 📊 Power BI Project: Interactive Mobile Sales Analytics Dashboard
 This project presents an end-to-end interactive Power BI dashboard designed to analyze mobile sales performance across multiple dimensions such as brand, city, time (month/day), mobile model, payment method, and customer ratings. The dashboard enables users to explore key business KPIs including Total Sales, Total Orders, Total Quantity, and Average Price, with dynamic slicers and filters for deep-dive analysis. It helps transform raw transactional data into clear, actionable insights for data-driven decision-making.
